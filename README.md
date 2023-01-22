@@ -1,4 +1,4 @@
-# FIND THE SQUARE ROOT OF A NUMBER  :
+# FIND THE SQUARE ROOT OF A NUMBER  
 
 ## AIM :
 
@@ -18,7 +18,7 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## PROGRAM :
-```
+```pythom
 
 Program to find the square root for the given number(newton's method) using function.
 Developed by: MIDHUN AZHAHU RAJA P 
